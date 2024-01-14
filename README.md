@@ -4,7 +4,8 @@ Welcome to the HR Analytics Project repository! This project aims to provide val
 
 ## Project Overview
 
-![HR Visualization Dashboard]([URL_TO_YOUR_IMAGE](https://github.com/Ajide-Oluwatosin80/HR-Performance-Analysis/blob/215a55696c0f42931e842ca02da552b64ba3aef8/HR_visualization_Dashboard.png))
+![HR Visualization Dashboard](https://raw.githubusercontent.com/Ajide-Oluwatosin80/HR-Performance-Analysis/215a55696c0f42931e842ca02da552b64ba3aef8/HR_visualization_Dashboard.png)
+
 
 In this project, we explore a dataset containing employee records from an HR department. The dataset includes information such as employee demographics, job titles, departments, locations, hire dates, and even termination dates where applicable. By leveraging SQL queries and data analysis techniques, we aim to answer insightful questions about the workforce.
 
@@ -18,7 +19,7 @@ The project addresses a range of questions, including:
 
 - **Location:** We investigate the number of employees at headquarters versus remote locations, highlighting the company's geographical presence.
 
-- **Employee Tenure:** By calculating average employment length for terminated employees, we gain insights into the average length of employment and potential turnover patterns.
+- **Employee Tenure:** By calculating the average employment length for terminated employees, we gain insights into the average length of employment and potential turnover patterns.
 
 - **Gender and Departments:** We explore gender distribution across departments and job titles, identifying possible gender imbalances within specific roles.
 
